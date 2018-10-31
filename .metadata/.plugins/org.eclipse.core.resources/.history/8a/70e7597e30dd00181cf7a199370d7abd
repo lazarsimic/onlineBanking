@@ -1,0 +1,13 @@
+package com.userfront;
+
+
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class UserFrontApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
